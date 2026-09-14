@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# backups written next to edited libraries
+*.bak
+
+# working libraries with vendor 3D models - keep them local (remove this line to publish them)
+Libs/
+
+# AI assistant working notes and settings - local only
+PROGRESS.md
+.claude/
+CLAUDE.md
+
+# editors / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini

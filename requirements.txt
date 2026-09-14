@@ -1,0 +1,4 @@
+olefile>=0.46
+pywin32>=306
+openpyxl>=3.1
+PyQt5>=5.15
